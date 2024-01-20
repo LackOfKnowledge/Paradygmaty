@@ -1,0 +1,14 @@
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\bin\Debug\net8.0\GaussSeidel_IS.exe
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\bin\Debug\net8.0\GaussSeidel_IS.deps.json
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\bin\Debug\net8.0\GaussSeidel_IS.runtimeconfig.json
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\bin\Debug\net8.0\GaussSeidel_IS.dll
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\bin\Debug\net8.0\GaussSeidel_IS.pdb
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.AssemblyInfoInputs.cache
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.AssemblyInfo.cs
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.csproj.CoreCompileInputs.cache
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.dll
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\refint\GaussSeidel_IS.dll
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.pdb
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\GaussSeidel_IS.genruntimeconfig.cache
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel ImperatywnoStrukturalny\GaussSeidel_IS\GaussSeidel_IS\obj\Debug\net8.0\ref\GaussSeidel_IS.dll

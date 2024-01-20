@@ -1,0 +1,14 @@
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\bin\Debug\net8.0\GaussSeidel_Obj.exe
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\bin\Debug\net8.0\GaussSeidel_Obj.deps.json
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\bin\Debug\net8.0\GaussSeidel_Obj.runtimeconfig.json
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\bin\Debug\net8.0\GaussSeidel_Obj.dll
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\bin\Debug\net8.0\GaussSeidel_Obj.pdb
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.AssemblyInfoInputs.cache
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.AssemblyInfo.cs
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.csproj.CoreCompileInputs.cache
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.dll
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\refint\GaussSeidel_Obj.dll
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.pdb
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\GaussSeidel_Obj.genruntimeconfig.cache
+C:\Users\janke\OneDrive\Pulpit\Paradygmaty projekt\Gauss-Seidel Obiektowy\GaussSeidel_Obj\GaussSeidel_Obj\obj\Debug\net8.0\ref\GaussSeidel_Obj.dll
